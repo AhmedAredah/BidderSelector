@@ -1,0 +1,36 @@
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\bin\Debug\Bidder Selector.exe.manifest
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\bin\Debug\Bidder Selector.application
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\bin\Debug\Bidder Selector.exe
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\bin\Debug\Bidder Selector.pdb
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\bin\Debug\Bidder Selector.xml
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\bin\Debug\Interop.Shell32.dll
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Interop.Shell32.dll
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.vbproj.ResolveComReference.cache
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.AboutBox1.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.AddBidders.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.Resources.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.OpenNew.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.PrintRibbonControllerResources.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.RemoveBidders.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.Setting.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.SplashScreen1.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.StartupForm.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.WaitForm1.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.XtraForm1.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.XtraForm2.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.XtraReport1.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder_Selector.XtraReport2.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.vbproj.GenerateResource.Cache
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.exe.licenses
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.exe.manifest
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.application
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.exe
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.xml
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\Final\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.pdb
+E:\Work\04. Programing\Bidder Selector\Bidder Selector\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Work\04. Programing\Bidder Selector\Bidder Selector\obj\Debug\Interop.Shell32.dll
+E:\Work\04. Programing\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.vbproj.ResolveComReference.cache
+E:\Work\04. Programing\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.exe
+E:\Work\04. Programing\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.xml
+E:\Work\04. Programing\Bidder Selector\Bidder Selector\obj\Debug\Bidder Selector.pdb

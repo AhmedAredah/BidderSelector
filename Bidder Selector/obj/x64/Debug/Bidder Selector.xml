@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BidderSelector
+</name>
+</assembly>
+<members>
+<member name="P:Bidder_Selector.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Bidder_Selector.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Bidder_Selector.My.Resources.Resources.pagenext_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Bidder_Selector.My.Resources.Resources.pageprev_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Bidder_Selector.My.Resources.Resources.prev_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Bidder_Selector.My.Resources.Resources.project_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Bidder_Selector.My.Resources.Resources.project_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Bidder_Selector.My.Resources.Resources.projectfile_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Bidder_Selector.My.Resources.Resources.projectfile_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Bidder_Selector.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Bidder_Selector.settings.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Bidder_Selector.settings.WeightsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Bidder_Selector.settings.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Bidder_Selector.settings.WeightsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Bidder_Selector.settings.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Bidder_Selector.settings.WeightsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Bidder_Selector.settings">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Bidder_Selector.DataSet1.BiddersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Bidder_Selector.DataSet1.BiddersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Bidder_Selector.DataSet1.BiddersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Bidder_Selector.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
